@@ -12,6 +12,7 @@ de Kein Program
 es Sin Programar
 it Non program.
 sr Prazno
+cz Nenaprogramovano!
 
 # 0xc53c0 28 13 Delete Entry?
 en Delete Entry?
@@ -19,6 +20,7 @@ de Eintrag entf?
 es Eliminar reg?
 it Elimino reg?
 sr Brisi unos?
+cz Smazat zaznam?
 
 # 0xc53dc 26 12 Radio Enable
 en Radio Enable
@@ -26,6 +28,7 @@ de Geraet aktiv.
 es Radio activa
 it Attiva radio
 sr Uklj. radio
+cz Radio aktivni
 
 # 0xc53f8 28 13 Radio Disable
 en Radio Disable
@@ -33,6 +36,7 @@ de Geraet deaktiv
 es Radio desact.
 it Disatt. radio
 sr Isklj. radio
+cz Radio neaktivni
 
 # 0xc5414 26 12 Edit Number:
 en Edit Number:
@@ -40,13 +44,14 @@ de ID aendern:
 es Editar numero:
 it Edita numero:
 sr Izmeni broj
-
+cz Upravit ID:
 # 0xc5430 26 12 Text Message
 en Text Message
 de Text Nachricht
 es Mensaje de Texto
 it SMS
 sr SMS
+cz Textova zprava
 
 # 0xc544c 26 12 Message Send
 en Message Send
@@ -54,6 +59,7 @@ de SMS gesendet
 es Mensaje enviado
 it Invio SMS
 sr SMS poslat
+cz SMS Zprava posl.
 
 # 0xc5468 26 12 Radio Check:
 en Radio Check:
@@ -61,6 +67,7 @@ de Geraetecheck
 es Chequeo Radio
 it Verif. radio
 sr Radio prover
+cz Kontrola Radia
 
 # 0xc5484 26 12 Target Radio
 en Target Radio
@@ -68,6 +75,7 @@ de Ziel-Geraet
 es Radio Destino
 it Destinatario
 sr Odrediste
+cz Cilove radio
 
 # 0xc54a0 28 13 Not Available
 en Not Available
@@ -75,9 +83,11 @@ de Nicht moeglich
 es No Disponible
 it Non disponib.
 sr Nije dostupno
+cz Neni dostupne
 
 # 0xc54bc 28 13 Radio Enable:
 sr Ukljuci radio
+cz Radio povol.
 
 # 0xc54d8 28 13 Firmware Ver.
 en Firmware Ver.
@@ -85,6 +95,7 @@ de Firmware Vers
 es Version FW
 it Versione FW
 sr Verzija FW
+cz Verze FW
 
 # 0xc54f4 28 13 Batter Info
 en Batter Info
@@ -92,23 +103,26 @@ de BatterieInf
 es Info Bateria
 it Info Batt.
 sr Bater. info
+cz Info k Baterii
 
 # 0xc5510 28 13 Private Alert
 es Alert Privada
 it Avviso priv.
 sr Privat. alarm
+cz Privatni alarm
 
 # 0xc552c 26 12 Enter Number
 es Intro Numero
 it Inser. num.
 sr Unesi broj
-
+cz Napis cislo
 # 0xc5548 26 12 Radio Number
 en Radio Number
 de Geraete-ID
 es Numero Radio
 it Numero Radio
 sr Broj radija
+cz Radio DMR-ID
 
 # 0xc5564 26 12 Tones/Alerts
 en Tones/Alerts
@@ -116,6 +130,7 @@ de Hinweistoene
 es Tono/Alertas
 it Toni/Avvisi
 sr Tonovi/Alar.
+cz Tony/Upozorneni
 
 # 0xc5580 26 12 Intro Screen
 en Intro Screen
@@ -123,6 +138,7 @@ de Startnachricht
 es Pant. Inicio
 it Scherm. iniz.
 sr Uvodni ekran
+cz Uvodni obrazovka
 
 # 0xc559c 28 13 LED Indicator
 en LED Indicator
@@ -130,11 +146,13 @@ de LED Anzeige
 es Indicador LED
 it Indic. LED
 sr LED indikator
+cz Indikator LED
 
 # 0xc55b8 26 12 Site Roaming
 es Roaming Local
 it Roaming Locale
 sr Roaming
+cz Roaming
 
 # 0xc55d4 26 12 Call Ringers
 en Call Ringers
@@ -142,6 +160,7 @@ de Ruftoene
 es Tono Llamada
 it Suoneria
 sr Zvona-poziv
+cz Upozorneni hovoru
 
 # 0xc55f0 26 12 Keypad Tones
 en Keypad Tones
@@ -149,15 +168,18 @@ de Tastentoene
 es Tono Teclas
 it Tono tasti
 sr Zvuk tastera
+cz Zvuk tlacitek
 
 # 0xc560c 28 13 Volume Offset
 es Comp. Volumen
 sr Offset zvuka
+cz Ofset hlasitosti
 
 # 0xc5628 26 12 New Password
 es Nueva Password
 it Nuova password
 sr Nova sifra
+cz Nove heslo
 
 # 0xc5644 26 12 Eight Digits
 en Eight Digits
@@ -165,21 +187,25 @@ de Acht Ziffern
 es Ocho Digitos
 it Otto cifre
 sr Osam cifara
+cz Osm cislic
 
 # 0xc5660 26 12 Do Not Match
 es No coinciden
 it Non corrisp.
 sr Ne slaze se
+cz Bez shody!
 
 # 0xc567c 26 12 Press OK and
 es Presiona OK y
 it Premi OK e
 sr Pritisni OK i
+cz Stiskni OK a
 
 # 0xc5698 28 13 Missed Calls:
 es Perdidas
 it perse
 sr Propusteni
+cz Zmeskane hovory
 
 # 0xc56b4 26 12 Setting Time
 en Setting Time
@@ -187,13 +213,14 @@ de Uhr einstellen
 es Configura Hora
 it Configura ora
 sr Setujem vreme
-
+cz Nastaveni casu
 # 0xc56d0 26 12 Setting Date
 en Setting Date
 de Datum setzen
 es Configura fecha
 it Configura data
 sr Setujem datum
+cz Nast.datum
 
 # 0xc56ec 26 12 Contact List
 en Contact List
@@ -201,7 +228,7 @@ de Kontaktliste
 es Lista Contactos
 it Lista contatti
 sr Kontakti
-
+cz Kontakty
 # 0xc5708 28 13 Outgoing List
 es Lista Salientes
 it Lista uscita
